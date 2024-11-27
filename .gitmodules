@@ -6,3 +6,7 @@
 	path = ingadhoc/bambi-account-financial-tools-persiscal
 	url = git@github.com:PersiscalConsulting/bambi-account-financial-tools-persiscal.git
 	branch = staging
+[submodule "ingadhoc/bambi-account-payment-persiscal"]
+	path = ingadhoc/bambi-account-payment-persiscal
+	url = git@github.com:PersiscalConsulting/bambi-account-payment-persiscal.git
+	branch = staging

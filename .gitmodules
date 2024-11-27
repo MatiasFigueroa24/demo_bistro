@@ -10,3 +10,7 @@
 	path = ingadhoc/bambi-account-payment-persiscal
 	url = git@github.com:PersiscalConsulting/bambi-account-payment-persiscal.git
 	branch = staging
+[submodule "oca/ocaweb"]
+	path = oca/ocaweb
+	url = https://github.com/OCA/web.git
+	branch = 17.0
